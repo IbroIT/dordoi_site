@@ -103,12 +103,10 @@ const Features = () => (
     <div className="container mx-auto px-3 md:px-10">
       <div className="px-5 py-32">
         <p className="font-circular-web text-lg text-blue-50">
-          Into the Metagame Layer
+        Dordoi Company in Kyrgyzstan
         </p>
         <p className="max-w-md font-circular-web text-lg text-blue-50 opacity-50">
-          Immerse yourself in a rich and ever-expanding universe where a vibrant
-          array of products converge into an interconnected overlay experience
-          on your world.
+        is a leader in wholesale trade and logistics, offering business opportunities and high-quality services. It supports entrepreneurs and contributes to the economic growth of the region.
         </p>
       </div>
 
